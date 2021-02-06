@@ -7,7 +7,6 @@
 body {
     background-color: #d9dcd6;
 }
-
 /*updated selector from class to tag*/
 header {
     padding: 20px;
@@ -15,12 +14,14 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
+
 /*updated selector from class to tag*/
 header h1 {
     display: inline-block;
     font-size: 48px;
     color: #d9dcd6;
 }
+
 /*updated selector name*/
 header nav {
     padding-top: 15px;
@@ -33,6 +34,7 @@ header nav {
 header nav ul {
     list-style-type: none;
 }
+
 /*updated selector name*/
 header nav ul li {
     display: inline-block;
@@ -47,6 +49,7 @@ a {
 p {
     font-size: 16px;
 }
+
 /*add class selector to make image responsive*/
 .responsive {
     height: auto;
@@ -66,6 +69,7 @@ p {
     float: right;
     margin-left: 25px;
 }
+
 /*merge class selector*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
@@ -77,41 +81,48 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 /*changes selector from class to tag*/
 section img {
     max-height: 200px;
 }
+
 /*changes selector from class to tag*/
 section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 /*changes selector from class to tag*/
 aside {
+    position:relative;
+    top: -960px;
     margin-right: 20px;
     margin-bottom: 32px;
     float: right;
     padding: 20px;
     clear: both;
-    float: right;
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
     color: #ffffff;
 }
+
 /*changes selector from class to tag*/
 aside h3 {
     margin-bottom: 10px;
-    margin-top: 20px;
+    margin-top: 30px;
     text-align: center;
 }
+
 /*changes selector from class to tag*/
 aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+
 /*changes selector from class to tag*/
 footer {
     padding: 30px;
