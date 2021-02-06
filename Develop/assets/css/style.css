@@ -74,7 +74,7 @@ p {
 }
 
 /*removed and condensed class selector*/
-.search-engine-optimization {
+.content-img {
     max-height: 200px;
 }
 
@@ -82,12 +82,6 @@ p {
 .search-engine-optimization-h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .float-left {
@@ -129,6 +123,7 @@ p {
     max-width: 150px;
 }
 
+/*condensed selectors*/
 footer {
     padding: 30px;
     clear: both;
