@@ -72,6 +72,7 @@ p {
 
 /*merge class selector*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
+    position: relative;
     margin-bottom: 20px;
     display: block;
     padding: 50px;
@@ -96,7 +97,7 @@ section h2 {
 /*changes selector from class to tag*/
 aside {
     position:relative;
-    top: -960px;
+    margin-top: -960px;
     margin-right: 20px;
     margin-bottom: 32px;
     float: right;
