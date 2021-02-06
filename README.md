@@ -9,12 +9,12 @@ Marketing agency, Horiseon has contracted us to updated their current version of
 The following sets forth the acceptance criteria detailed by the client along with required documentation (https://www.ada.gov/2010ADAstandards_index.htm)
 
 ### Criteria
-WHEN EU (end user) views the source code THEN semantic HTML elements must be shown
-WHEN EU views the structure of the HTML elements THEN EU must find that the elements follow a logical structure independent of styling and positioning
-WHEN EU views the image elements THEN EU finds accessible alt attributes. 
-WHEN EU views the heading attributes THEN EU will see be able to follow sequential order
-WHEN EU views the title element THEN EU finds a concise, descriptive title
-This is how the site should look ![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
+  * WHEN EU (end user) views the source code THEN semantic HTML elements must be shown
+  * WHEN EU views the structure of the HTML elements THEN EU must find that the elements follow a logical structure independent of styling and positioning
+  * WHEN EU views the image elements THEN EU finds accessible alt attributes. 
+  * WHEN EU views the heading attributes THEN EU will see be able to follow sequential order
+  * WHEN EU views the title element THEN EU finds a concise, descriptive title
+  * This is how the site should look ![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
 
 ### Further Details
   * Nav links need to be applied and redirect within each section of the page
