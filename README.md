@@ -1,10 +1,14 @@
 # HW01 - Code Refactor
 
+## Link to site
+* [Live Link](https://chronoslou.github.io/Updated-portfolio/)
+* [Repo Link](https://github.com/chronoslou/Updated-portfolio)
+
 ## Description 
 
 Marketing agency, Horiseon has contracted us to updated their current version of their website (horiseon.com) to made sure that that the site is fully ADA compliant and SEO optimized. The current estimated level of effort is high since their target go live date is set to 2/28/2021. 
 
-## Acceptance Criteria
+## Usage
 
 The following sets forth the acceptance criteria detailed by the client along with required documentation (https://www.ada.gov/2010ADAstandards_index.htm)
 
@@ -31,7 +35,12 @@ The following sets forth the acceptance criteria detailed by the client along wi
 
   * Repository must include site code.
 
+## Preview of App 
+
+* This is how the app looks
+
+![Screenshot](./assets/images/Launchedsite.jpg)
+
 ## License
 
   * MIT
-
