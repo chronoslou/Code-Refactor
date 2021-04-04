@@ -14,7 +14,7 @@ The following sets forth the acceptance criteria detailed by the client along wi
 * WHEN EU views the image elements THEN EU finds accessible alt attributes. 
 * WHEN EU views the heading attributes THEN EU will see be able to follow sequential order
 * WHEN EU views the title element THEN EU finds a concise, descriptive title
-* This is how the site should look ![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
+* This is how the site should look ![code refactor demo](./assets/images/01-html-css-git-homework-demo.png)
 
 ### Further Details
   * Nav links need to be applied and redirect within each section of the page
