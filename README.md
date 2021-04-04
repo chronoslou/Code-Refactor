@@ -1,4 +1,4 @@
-# HW01 - Code Refactor - Louis Falla
+# HW01 - Code Refactor
 
 ## Description 
 
