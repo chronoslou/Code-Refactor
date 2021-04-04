@@ -1,8 +1,8 @@
 # HW01 - Code Refactor
 
 ## Link to site
-* [Live Link](https://chronoslou.github.io/Updated-portfolio/)
-* [Repo Link](https://github.com/chronoslou/Updated-portfolio)
+* [Live Link](https://chronoslou.github.io/Code-Refactor/)
+* [Repo Link](https://github.com/chronoslou/Code-Refactor)
 
 ## Description 
 
